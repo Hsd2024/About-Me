@@ -32,7 +32,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 ## Certifications
 Networking basics      https://www.credly.com/badges/af90be85-48b0-4181-925a-d1ceddeff385
-- CompTIA SY0-701 Security+
+- CompTIA SY0-701 Security+ https://www.credly.com/users/mohammad-hasib-sidiqi.b3a5d675
 
 ## Projects
 - Detection Lab
