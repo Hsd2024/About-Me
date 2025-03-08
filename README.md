@@ -26,7 +26,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 
 ## Tools
--Vertual Machine
+- Vertual Machine
 - Wireshark
 - Splunk SIME
 - Cisco Packet trecer
