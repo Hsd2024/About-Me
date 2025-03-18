@@ -6,4 +6,4 @@ Objective
 
 My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC). 
 
-Skills 
+ 
